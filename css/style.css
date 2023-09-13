@@ -320,6 +320,8 @@ color: #2E2F42;
 }
 
 .role {
+    margin: 0;
+    margin-bottom: 8px;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 400;
